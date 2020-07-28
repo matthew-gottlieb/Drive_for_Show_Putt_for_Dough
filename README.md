@@ -7,6 +7,6 @@ Using Machine Learning techniques to analyze the relationships between Driving, 
  ## Code and Resources used
  **Python Version**: 3.7.1
 <br>
-**Packages**: Pandas, Numpy, Matplotlib, Seaborn
+**Packages**: Pandas, Numpy, Matplotlib, Seaborn, scikit-learn
  <br>
  **Original Dataset**: https://www.kaggle.com/bradklassen/pga-tour-20102018-data

@@ -2,7 +2,9 @@
 Using Machine Learning techniques to analyze the relationships between Driving, Putting and success on the PGA Tour in 2019.
 
 ## Project Overview
-### The goal of this Data Exploration is to analyze NHL player data from the 2016/2017 NHL season, and understand the following:
+The age old adage, "drive for show, putt for dough" has long been spoken in golf. However, what impact do each of these components have on getting a top finish on the PGA Tour? And most importantly, are good driving and putting statistics strong predictors of success?
+
+This project uses data from the 2019 PGA Tour season, with the objective of better understanding the relationships of Driving and Putting with success on tour.
  
  ## Code and Resources used
  **Python Version**: 3.7.1
